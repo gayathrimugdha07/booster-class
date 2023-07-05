@@ -1,1 +1,1 @@
-# booster-class
+# solar_power
